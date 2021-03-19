@@ -1,0 +1,8 @@
+const  welcome  =  ( número ,  nome do grupo )  =>  {
+    retornar  `𝐎𝐥𝐚 @ $ { número } . 𝐒𝐞𝐣𝐚 𝐛𝐞𝐦-𝐯𝐢𝐧𝐝𝐨 𝐚𝐨 𝐠𝐫𝐮𝐩𝐨 $ { groupname } `
+}
+exportações . bem  - vindo =  bem - vindo
+
+const  bye  =  ( número )  =>  {
+    retornar  `Adeus @ $ { número } . Já vai tarde 👋`
+}
